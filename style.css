@@ -1,0 +1,23 @@
+/* Center all text and buttons */
+body {
+    text-align: center;
+}
+
+/* Make buttons look cooler */
+button {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    border-radius: 8px !important;
+    padding: 10px 20px !important;
+}
+
+/* Style the title */
+h1 {
+    color: #1f77b4;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Add spacing */
+.stButton {
+    margin: 10px 0;
+}
